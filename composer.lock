@@ -1684,6 +1684,7 @@
                 "reflection",
                 "static"
             ],
+            "abandoned": "roave/better-reflection",
             "time": "2020-03-27T11:06:43+00:00"
         },
         {
@@ -5433,16 +5434,16 @@
         },
         {
             "name": "rosell-dk/webp-convert",
-            "version": "2.3.2",
+            "version": "2.4.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/rosell-dk/webp-convert.git",
-                "reference": "5da7989e87cc0b6c61a5fd73262ed28999be27ab"
+                "reference": "187a578ee55730f7a128a2f07b4351524b10d47b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/rosell-dk/webp-convert/zipball/5da7989e87cc0b6c61a5fd73262ed28999be27ab",
-                "reference": "5da7989e87cc0b6c61a5fd73262ed28999be27ab",
+                "url": "https://api.github.com/repos/rosell-dk/webp-convert/zipball/187a578ee55730f7a128a2f07b4351524b10d47b",
+                "reference": "187a578ee55730f7a128a2f07b4351524b10d47b",
                 "shasum": ""
             },
             "require": {
@@ -5505,7 +5506,17 @@
                 "png",
                 "png2webp"
             ],
-            "time": "2020-04-18T14:41:50+00:00"
+            "funding": [
+                {
+                    "url": "https://github.com/rosell-dk",
+                    "type": "github"
+                },
+                {
+                    "url": "https://ko-fi.com/rosell",
+                    "type": "ko_fi"
+                }
+            ],
+            "time": "2020-11-10T11:24:50+00:00"
         },
         {
             "name": "ruflin/elastica",
@@ -16573,12 +16584,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/wapmorgan/PhpCodeFixer.git",
-                "reference": "8b4ea516a1e5f163cbd9e3426bbe3a23532997d2"
+                "reference": "12b2998163eabb54704b5d93a63666cebde91ebf"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wapmorgan/PhpCodeFixer/zipball/8b4ea516a1e5f163cbd9e3426bbe3a23532997d2",
-                "reference": "8b4ea516a1e5f163cbd9e3426bbe3a23532997d2",
+                "url": "https://api.github.com/repos/wapmorgan/PhpCodeFixer/zipball/12b2998163eabb54704b5d93a63666cebde91ebf",
+                "reference": "12b2998163eabb54704b5d93a63666cebde91ebf",
                 "shasum": ""
             },
             "require": {
@@ -16623,7 +16634,7 @@
                 "BSD-3-Clause"
             ],
             "description": "Analyzer of PHP code to search issues with deprecated functionality in newer interpreter versions.",
-            "time": "2020-06-13T18:33:47+00:00"
+            "time": "2020-11-04T14:16:51+00:00"
         },
         {
             "name": "webmozart/assert",
